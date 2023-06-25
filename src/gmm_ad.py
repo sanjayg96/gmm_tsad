@@ -4,7 +4,6 @@ Implementation of GMM based time series anomaly detection.
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.mixture import GaussianMixture
 from sklearn.preprocessing import MinMaxScaler
 import logging

@@ -21,7 +21,13 @@ Once you have the train data and the test data, instantiate the ADGMM class obje
 
 Please refer to the funciton docstrings for more information on its parameters and usage.
 
+## Tools and libraries used
 
+Purpose | Tools/Libraries
+---|---
+Data manipulation | Pandas
+Numerical computations | NumPy
+Model building | Scikit-Learn
 
 
 
